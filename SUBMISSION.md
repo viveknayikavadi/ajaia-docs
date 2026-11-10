@@ -4,7 +4,7 @@
 
 - **Live app:** https://ajaia-docs-xi-seven.vercel.app/
 - **Walkthrough video:** https://www.loom.com/share/b62c680eb8ca45c2a05409be1da01a7d
-- **Google Drive folder:** <PASTE_DRIVE_LINK>
+- **Google Drive folder:** https://drive.google.com/drive/folders/1i0Q2eOgig5vU_8aIkI8XTOYrLFuZ2mkk?usp=sharing
 - **Source repo (optional):** https://github.com/viveknayikavadi/ajaia-docs
 
 ## Test accounts (no password, pick one on the sign-in screen)
