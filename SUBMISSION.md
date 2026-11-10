@@ -3,7 +3,7 @@
 ## Links
 
 - **Live app:** https://ajaia-docs-xi-seven.vercel.app/
-- **Walkthrough video:** <PASTE_VIDEO_URL>
+- **Walkthrough video:** https://www.loom.com/share/b62c680eb8ca45c2a05409be1da01a7d
 - **Google Drive folder:** <PASTE_DRIVE_LINK>
 - **Source repo (optional):** https://github.com/viveknayikavadi/ajaia-docs
 
