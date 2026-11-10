@@ -2,7 +2,7 @@
 
 A lightweight collaborative document editor inspired by Google Docs, built for the Ajaia AI-Native Full Stack Developer assignment.
 
-**Live app:** <PASTE_YOUR_VERCEL_URL>
+**Live app:** https://ajaia-docs-xi-seven.vercel.app/
 **Walkthrough video:** see `VIDEO_URL.txt`
 
 ## Features

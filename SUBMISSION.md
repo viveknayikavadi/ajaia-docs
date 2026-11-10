@@ -2,10 +2,10 @@
 
 ## Links
 
-- **Live app:** <PASTE_YOUR_VERCEL_URL>
+- **Live app:** https://ajaia-docs-xi-seven.vercel.app/
 - **Walkthrough video:** <PASTE_VIDEO_URL>
 - **Google Drive folder:** <PASTE_DRIVE_LINK>
-- **Source repo (optional):** <PASTE_GITHUB_URL>
+- **Source repo (optional):** https://github.com/viveknayikavadi/ajaia-docs
 
 ## Test accounts (no password, pick one on the sign-in screen)
 
