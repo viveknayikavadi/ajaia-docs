@@ -1,0 +1,4 @@
+Quick plain text notes.
+This line stays in the same paragraph.
+
+A blank line starts a new paragraph.
